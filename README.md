@@ -51,7 +51,8 @@ Alternative model 3  is built using:
 Follwing shows the evaluation of test data using all the four models:
 
 ![Evaluation of all the model](images/model_results.png)
-  ---
+ 
+---
   ## Technologies
 
 This project uses python 3.7 along with the following packages:
@@ -63,6 +64,10 @@ This project uses python 3.7 along with the following packages:
 * [hvplot](https://pyviz-dev.github.io/hvplot/) - A high-level plotting API for the PyData ecosystem built on HoloViews.
 
 * [sklearn](https://github.com/scikit-learn/scikit-learn) - A Python module for machine learning built on top of SciPy
+
+* [tensorflow](https://www.tensorflow.org/) - A core open source library to help you develop and train ML models.
+
+*[Keras](https://keras.io/) -  A deep learning API
 ---
 
 ## Installation Guide
@@ -74,12 +79,13 @@ Please install the following before starting the application
   pip install pandas
   pip install hvplot 
   pip install scikit-learn
+  pip install --upgrade tensorflow
 ```
 ---
 
 ## Usage
 
-To use the Crypto investment tools, please download and open the **crypto_investments.ipynb** in jupyter lab after executing
+To use the Venture Funding tool, please download and open the **venture_funding_with_deep_learning.ipynb** in jupyter lab after executing
 the following on the command line:
 
 ```python
