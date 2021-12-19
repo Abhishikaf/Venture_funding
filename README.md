@@ -51,6 +51,8 @@ Alternative model 3  is built using:
 Follwing shows the evaluation of test data using all the four models:
 
 ![Evaluation of all the model](images/model_results.png)
+
+Even with different model configurations - involving different number of nodes, different number of neurons, different activation function or dropping some unneccesary columns off the data, we see the accuracy almost remains between 73 - 74%
  
 ---
   ## Technologies
