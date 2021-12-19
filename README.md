@@ -67,7 +67,7 @@ This project uses python 3.7 along with the following packages:
 
 * [tensorflow](https://www.tensorflow.org/) - A core open source library to help you develop and train ML models.
 
-*[Keras](https://keras.io/) -  A deep learning API
+* [Keras](https://keras.io/) -  A deep learning API
 ---
 
 ## Installation Guide
